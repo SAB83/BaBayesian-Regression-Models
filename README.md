@@ -1,4 +1,4 @@
-# BaBayesian-Regression-Models
+# Bayesian-Regression-Models
 #climate change impacts on Migration timing and egg laying date 
 library(brms)
 library(rstan)
